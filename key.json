@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "cmpe172-01",
+  "private_key_id": "17d6428f74fea181a149c08e9433d9ef2472515a",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCv50JZUl8NEaQI\nrXhuR5S6mzLjLULWqGSfOZQAxNc7azXTV3Gu3oABXnGmEP2XdXaLdUs5aAGjRpSM\ngrg49Jtv8EpcBVmlhXouqNmB+bwaCayVjSejnUUz3fit6t9/Ivv0HzoKeMT2KeTw\neLm05o75bScs5iXLWBIyHUua24F1FZIIsakU35kCiDHfzxP7Eo99sPSEYK7VSTSk\n0bDoE6tBxOuY0Yi+SqFgJ/YnoFaayuDAwEn1GYGuORhkgt1P19o1LFQ25ptZBASO\nt89O2+oNuw2w7nrOhVlCHMIM2Fx6O9acQj4v8I6vxeStZyXo1b7z8SRFclB2nvFC\nw8M8w+hBAgMBAAECggEASTe6b1GRDPCN1arXGRgkeTQGj3cUfiMjlv8xcsx8RlhO\n1ERupnooz+kO5y/lTnjvOgc9o4x+Ogcz5/S1V8fBN2vOl9UGRpZzkB5qQua/fBsQ\nwkM5/6mD154KV+IO222lcCzbTOaOHWS8zbeCnSDm3D2p889sZeKn2EJHaRL7JM9+\n+Z7Wgebh6u9uAidLoF+sU/Kq7RTUzttfmRtjXHt8LOjr+8MLzd9Ix0V+R80xJu92\n7qEsL3UoDCe0jmDEyOsPzWjh8u4FbGvSAK/k3SS71FVUdj10KlfK6QlO2IsXxhY3\n5ZXjFSW1CdcR21FE3NUiLAZCyh8n7V0JUsK/1RcxfQKBgQDs52Gcvb06fHXomdLN\njIvdFm2YhwAxkMPO8F0/8ROpMhdXXP7pYGS94NsJvpxcIq7S4anheu4y4Ry4Ovlt\n4czdiduKWZAuyBXujaSNEN3jyFhtlK8qMFTqeF2z0TVJvoPJFzcyLGdq9goNjyLy\nWXHiGiIWxkQ+AW+X87QlGtC3BwKBgQC+FRruQY48iOSVjfieAtYLs1WAMpIRl72/\nOoWl53EkOf3runnNXtOEXuSqcZkSDR7S6F4p7tWMJRL8BPZefmbMWnPFRv+AX2fa\n+IuxwgbWOML3/axjIq4ZLMA2A+mRDnPuSja070RjDAtUdqYGGcFcSnwKAvUuyOK+\n/ev/eGGMdwKBgQDF4Nraxm2Jra369Ils4YltyS8P6SuTOx0i/AiXwTEv8UQn1+ig\nXMCpDWlH8Wu/VcT7Jjz0tu7BluCbTb9MNgAdx+mV3Que18fh83PP1JfSjGS4WyoY\nrjgvhQyXhxbgmv6O+BJFmWtkn1B0VOvWzDlgp31z0nXr6N0iahA9sfFF/wKBgBia\nnMDIRYP6aDQfi1XQoiojjWappRSX4py1E4WU/qUkyIRRv+BgbNqOeeTCDYEzp5C/\nOSkOXB/m0J1EeytiCyZacu/PL9VLBCNo1pQsvDvQXxRAhqbSX1ys2Thkqz/2cfUf\nMBOdgOmdLn5BWV4iyU+L6KBXH6ttn0P/lCOeTmojAoGAZaNiaVdB+z6j/uAwJaOR\nN9mW6gEC9NsCWvvc3v4eyLh1IsDyHwRXS8CwLifWp7q9hm8e8N+BdS87ssPAzKdU\nV/WSmfdwIn2LfWxTtBon9ymOl6SARYPKPQFhwGHGVEVzxULUyyCTm0LcUMPXn7Gi\nmfKftWc6LTDyGMwghEt4oD8=\n-----END PRIVATE KEY-----\n",
+  "client_email": "spring-gumball@cmpe172-01.iam.gserviceaccount.com",
+  "client_id": "110441807614975416063",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/spring-gumball%40cmpe172-01.iam.gserviceaccount.com"
+}
